@@ -1,4 +1,8 @@
 # UR10-Controller
+An new interface has been developed for the UR in the repo: https://github.com/ErwinLutke/UR 
+It can be used to build your application for the UR.
+ 
+
 A small python program for controlling a Universal Robot with URScripting.
 
 Written in Python 3.7 no extra modules needed.
