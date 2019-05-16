@@ -1,5 +1,5 @@
 # UR10-Controller
-An new interface has been developed for the UR in the repo: https://github.com/ErwinLutke/UR 
+An new interface has been developed for the UR in the repo: https://github.com/ErwinLutke/UR-Interface 
 It can be used to build your application for the UR.
  
 
